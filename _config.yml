@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: elastic-load-balancing.api.streamdata.gallery
+title: Streamdata Gallery Elastic Load Balancing
+url: elastic-load-balancing.streamdata.gallery
 tag: Elastic Load Balancing
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: elastic-load-balancing
 github_branch: master
 collections:
